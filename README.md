@@ -5,8 +5,6 @@ Complied deb package of darkice with mp3 support for the raspberry pi
 
 This is build againest the darkice source available for raspbian
 
-Example of usage
-* http://www.t3node.com/blog/live-streaming-mp3-audio-with-darkice-and-icecast2-on-raspberry-pi/
-* https://sites.google.com/site/glyman3home/raspi-streaming-to-broadcastify
+Read http://code-injection.blogspot.co.uk/2014/05/broadcasting-with-raspberry-pi.html for usage
 
 Darkice is released under GNU GPL v3
